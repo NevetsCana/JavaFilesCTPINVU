@@ -1,0 +1,7 @@
+controlador\srvUsuario.class
+modelo\conexion.class
+modelo\Cargo.class
+modelo\MysqlConnect.class
+modelo\DAOUSUARIO.class
+modelo\compobar.class
+modelo\Usuario.class
